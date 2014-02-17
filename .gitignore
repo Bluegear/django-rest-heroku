@@ -36,3 +36,6 @@ nosetests.xml
 .pydevproject
 
 venv
+staticfiles
+.idea
+db.sqlite3
